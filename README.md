@@ -24,9 +24,7 @@ Welcome to my personal portfolio! This project showcases my skills as a web deve
 
 ## 📸 Screenshots
 
-- **Portfolio Homepage**  
   ![](public/Images/Screenshots/Screenshot1.png)
 
-- **Project Showcase**  
   ![](public/Images/Screenshots/Screenshot2.png)
 
