@@ -10,8 +10,8 @@ export function Footer() {
   return (
     <Container className="footer">
       <a href="https://vinayaksingh.in" className="logo">
-        <span>www.vinayak</span>
-        <span>singh.in</span>
+        <span>irsadalmaruf-</span>
+        <span>portfolio.vercel.app</span>
       </a>
       <div>
         <p>
@@ -21,35 +21,35 @@ export function Footer() {
       </div>
       <div className="social-media">
         <a
-          href="https://www.linkedin.com/in/codevinayak"
+          href="https://www.linkedin.com/in/irsyadalmaruf/"
           target="_blank"
           rel="noreferrer"
         >
           <img src={linkedin} alt="Linkedin" />
         </a>
         <a
-          href="https://github.com/CodeVinayak/"
+          href="https://github.com/irsyadalmaruf/"
           target="_blank"
           rel="noreferrer"
         >
           <img src={githubIcon} alt="GitHub" />
         </a>
         <a
-          href="https://api.whatsapp.com/send/?phone=%2B919630576848&text=Hello+Vinayak+I+found+your+contact+through+portfolio+site.%0A%0A"
+          href="https://api.whatsapp.com/send/?phone=6285157578438&text=Hello+Irsad+Al+Ma'ruf+I+found+your+contact+through+portfolio+site.%0A%0A"
           target="_blank"
           rel="noreferrer"
         >
           <img src={whatsapp} alt="Whatsapp" />
         </a>
         <a
-          href="https://t.me/CodeVinayak"
+          href="https://t.me/irsyadalmaruf"
           target="_blank"
           rel="noreferrer"
         >
           <img src={telegram} alt="telegram" />
         </a>
         <a
-          href="https://www.instagram.com/vinayaksingh.in"
+          href="https://www.instagram.com/irsyadd.almaruf/"
           target="_blank"
           rel="noreferrer"
         >
